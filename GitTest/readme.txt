@@ -3,3 +3,4 @@ Then updated
 Updated again
 Edited in local
 Updated in GitHub
+Updated in local
